@@ -1,0 +1,7 @@
+{
+  "name": "FirsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
